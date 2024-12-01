@@ -1,4 +1,4 @@
-Download files, ensure they're added to your project.\n
-Import Pin Assignments\n
-Compile\n
-Program\n
+Download files, ensure they're added to your project.<br>
+Import Pin Assignments<br>
+Compile<br>
+Program<br>
